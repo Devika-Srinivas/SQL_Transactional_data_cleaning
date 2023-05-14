@@ -1,6 +1,6 @@
 # SQL_Transactional_data_cleaning
 
-Performed data exploration and cleaning for a service provider company, offering services to other companies. 
+Performed data cleaning for a service provider company, offering services to other companies. 
 Below are the objectives of performing the analysis. 
 
 -------Ojective 1
